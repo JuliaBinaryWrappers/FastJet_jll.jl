@@ -1,5 +1,5 @@
-name = "Fastjet_jll"
-uuid = "47a46141-4ebd-58fc-bccd-34b84b148887"
+name = "FastJet_jll"
+uuid = "7111ce8a-33e8-59c0-b870-b64149b8fb4c"
 version = "3.3.3+0"
 
 [deps]
